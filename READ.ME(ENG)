@@ -1,0 +1,36 @@
+Hello! My name is Alexander, and this is my repository dedicated to learning Python, automation, and artificial intelligence.
+### 🎯 My Goals
+
+* Master Python programming from scratch to a confident level.
+* Learn how to create automation scripts for everyday tasks.
+* Explore the integration of AI tools into real-world projects.
+
+### 📂 Repository Structure
+
+* Python/ — learning scripts, theoretical notes, and experiments.
+* Exercises/ — solutions to practical tasks and exercises.
+* Projects/ — final projects and automation.
+
+---
+
+## 📖 Learning Journal
+
+### Day 1 (29.07.2026)
+* What I learned: Created the repository, set up the folder structure, and reviewed basic Git commands.
+* Challenges: Took some time to figure out branches and .gitkeep files.
+* What I learned from it: Understood how to make commits and format README files in Markdown.
+
+### Day 2 (30.07.2026)
+* What I learned: Python variables, f-strings, and data output.
+* Challenges: Encountered NameError and SyntaxError while working with f-string syntax.
+* What I learned from it: Figured out how to properly pass variables inside {} in f-strings and how to output them.
+
+### Day 4 (01.08.2026)
+* What I learned: String manipulation methods (upper, title) and basic work with numbers.
+* Challenges: Struggled at first with correctly inserting code and file paths via the GitHub web interface.
+* What I learned from it: Mastered the correct creation of files inside folders and f-string formatting.
+
+### Day 5 (02.08.2026)
+Weekly Summary:
+* What was done during the week: Created the repository structure (Python, Exercises, Projects), mastered variables, f-strings, and data handling.
+* Results: Wrote my first working scripts and created a basic concept project. All 10 commits successfully pushed to the repository!
